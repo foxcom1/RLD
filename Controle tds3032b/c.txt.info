@@ -1,0 +1,11 @@
+Amplitude: 0,18
+Offset: 0
+Frequencia inicial: 18000
+Frequencia final: 184000
+Steps: 50
+Delay gerador-osc.: 10
+Offset osc.:0,4
+Escala de tempo osc.:1E-5
+Range vertical osc.: 0,2
+Width (picos): 30
+Threshold (picos): 0
